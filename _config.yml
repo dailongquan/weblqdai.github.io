@@ -5,6 +5,9 @@
 # Name of your site (displayed in the header)
 name: 飞龙在天
 
+
+theme:  midnight 
+
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
 
